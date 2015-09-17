@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Wp-do-shortcode
+Plugin Name: Wp Do ShortCode
 Version: 0.1-alpha
 Description: do shortcode on admin page
 Author: kurozumi
